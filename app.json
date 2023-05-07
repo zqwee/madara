@@ -1,0 +1,40 @@
+{
+    "name": ". ◜ُِ#ُِMＡＤＡＲＡ🕷️.",
+    "description": "مرحبا بك في سوري صيد يوزرات ",
+    "logo" : "https://telegra.ph/file/abc0cc2007e0c231a1a72.jpg",
+    "stack": "container",
+    "repository": "https://github.com/perdark/per-sed",
+    "keywords": [
+        "python",
+        "chatbot",
+        "telegrambot"
+    ],
+    "website": "https://github.com/perdark/per-sed",
+    "env": {
+        "APP_ID": {
+            "description": "ايبي ايدي",
+            "value": "",
+            "required": true
+        },
+        "APP_HASH": {
+            "description": "ايبي هاش",
+            "value": "",
+            "required": true
+        },
+        "TERMUX": {
+            "description": "كود تيرمكس",
+            "value": "",
+            "required": true
+        },
+        "TOKEN": {
+            "description": "توكن االبوت",
+            "value": "",
+            "required": true
+        },
+        "BOT_USERNAME": {
+            "description": "يوزر البوت بدون ـ@ـ",
+            "value": "",
+            "required": true
+        }
+    }
+}
